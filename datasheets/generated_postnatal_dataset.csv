@@ -1,0 +1,622 @@
+﻿text,category,risk_level
+मलाई हल्का पेट दुखाइ छ,maternal_postnatal,low
+बच्चा लगातार रोइरहनु भयो भने ठीक छ?,newborn,high
+कब्जियत भयो भने के गर्ने?,maternal_postnatal,low
+म शरीर काँप्नु भएको महसुस गर्छु,maternal_postnatal,high
+दूध चुहिनु भयो भने के गर्ने?,maternal_postnatal,low
+बच्चालाई झट्का जस्तो हुनु भयो भने के गर्ने?,newborn,high
+के धेरै रगत बग्नु सामान्य हो?,maternal_postnatal,high
+बच्चाको धेरै सुत्नु भए के गर्ने?,newborn,normal
+मलाई सधैं रोइरहनु छ,maternal_postnatal,high
+बच्चाको सास छिटो चल्नु भए के गर्ने?,newborn,high
+सास फेर्न गाह्रो हुनु सामान्य हो?,maternal_postnatal,high
+बच्चाले दिसा हरियो हुनु गरेको छ,newborn,medium
+धेरै पसिना आउनु भइरहेको छ,maternal_postnatal,medium
+यदि खुट्टा दुख्नु भयो भने के गर्ने?,maternal_postnatal,low
+कमजोरी सामान्य हो?,maternal_postnatal,low
+घाउबाट दुर्गन्ध आउनु सामान्य हो?,maternal_postnatal,medium
+बच्चालाई धेरै चिसो हुनु भयो भने के गर्ने?,newborn,high
+बच्चाको दूध कम खानु देखियो,newborn,medium
+मलाई दूध कम आउनु छ,maternal_postnatal,medium
+बच्चालाई पेट भरिएको देखिनु भयो भने के गर्ने?,newborn,normal
+बच्चा हल्का रुनु भयो भने ठीक छ?,newborn,normal
+कसरी भोक नलाग्नु कम गर्ने?,maternal_postnatal,low
+मलाई मुटु छिटो धड्किनु छ,maternal_postnatal,medium
+पसिना आउनु भयो भने के गर्ने?,maternal_postnatal,low
+मलाई टाँका दुख्नु छ,maternal_postnatal,medium
+बच्चाको दूध नै नखानु भए के गर्ने?,newborn,high
+यदि मुटु छिटो धड्किनु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चाले दिसा पहेंलो हुनु गरेको छ,newborn,normal
+बच्चा आँखा पाक्नु भएपछि के गर्नु पर्छ?,newborn,medium
+बच्चाले शरीर निलो देखिनु गरेको छ,newborn,high
+ढाड दुखाइ भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+आँखा धमिलो हुनु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चाले हल्का रुनु गरेको छ,newborn,normal
+यदि भोक नलाग्नु भयो भने के गर्ने?,maternal_postnatal,low
+घाउ अलि दुख्नु भयो भने के गर्ने?,maternal_postnatal,low
+यदि बच्चा पेट भरिएको देखिनु भयो भने के गर्नु पर्छ?,newborn,normal
+मलाई आँखा धमिलो हुनु छ,maternal_postnatal,medium
+के सधैं रोइरहनु सामान्य हो?,maternal_postnatal,high
+कसरी खुट्टा दुख्नु कम गर्ने?,maternal_postnatal,low
+म पेट धेरै दुख्नु भएको महसुस गर्छु,maternal_postnatal,medium
+बच्चाले धेरै चिसो हुनु गरेको छ,newborn,high
+बच्चाले दूध खाँदा निदाउनु गरेको छ,newborn,medium
+यदि कब्जियत भयो भने के गर्ने?,maternal_postnatal,low
+कसरी घाउबाट पहेंलो पानी आउनु कम गर्ने?,maternal_postnatal,high
+उठ्नै नसक्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,high
+मलाई भोक नलाग्नु छ,maternal_postnatal,low
+धेरै पसिना आउनु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चाको दिसा हरियो हुनु सामान्य हो?,newborn,medium
+के बेहोस जस्तो हुनु सामान्य हो?,maternal_postnatal,high
+थकान भयो भने के गर्ने?,maternal_postnatal,low
+पेट धेरै दुख्नु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चाको नाक बन्द हुनु सामान्य हो?,newborn,medium
+बच्चाको पेट भरिएको देखिनु भए के गर्ने?,newborn,normal
+मलाई अत्यधिक कमजोरी छ,maternal_postnatal,high
+बच्चा झट्का जस्तो हुनु भयो भने ठीक छ?,newborn,high
+शरीर दुखाइ भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+बच्चाको धेरै चिसो हुनु सामान्य हो?,newborn,high
+कसरी पिसाब गर्दा दुख्नु कम गर्ने?,maternal_postnatal,medium
+यदि छाती दुख्नु भयो भने के गर्ने?,maternal_postnatal,high
+बच्चामा बारम्बार रुनु देखियो,newborn,medium
+यदि रिङ्गटा लाग्नु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चाको हल्का ज्वरो जस्तो लाग्नु भए के गर्ने?,newborn,medium
+बच्चा धेरै चिसो हुनु भएपछि के गर्नु पर्छ?,newborn,high
+पसिना आउनु सामान्य हो?,maternal_postnatal,low
+बच्चाको उठाउन खोज्दा नउठ्नु देखियो,newborn,high
+बच्चाको छाला रातो हुनु सामान्य हो?,newborn,medium
+घाउबाट दुर्गन्ध आउनु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+पेट धेरै दुख्नु सामान्य हो?,maternal_postnatal,medium
+कसरी टाउको दुखाइ कम गर्ने?,maternal_postnatal,low
+बच्चालाई हल्का ज्वरो जस्तो लाग्नु भयो भने के गर्ने?,newborn,medium
+बच्चालाई दूध खाएर सुत्नु भयो भने के गर्ने?,newborn,normal
+बच्चामा दूध खाएर सुत्नु देखियो,newborn,normal
+बच्चाको दूध खाएर सुत्नु भए के गर्ने?,newborn,normal
+बच्चालाई नाक बन्द हुनु भयो भने के गर्ने?,newborn,medium
+के निद्रा नलाग्नु सामान्य हो?,maternal_postnatal,low
+बच्चाले धेरै सुत्नु गरेको छ,newborn,normal
+यदि स्तन रातो हुनु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चाले उठाउन खोज्दा नउठ्नु गरेको छ,newborn,high
+कसरी पसिना आउनु कम गर्ने?,maternal_postnatal,low
+बच्चामा झट्का जस्तो हुनु देखियो,newborn,high
+स्तन भारी हुनु सामान्य हो?,maternal_postnatal,low
+यदि पिसाब गर्दा दुख्नु भयो भने के गर्ने?,maternal_postnatal,medium
+यदि बच्चा लगातार रोइरहनु भयो भने के गर्नु पर्छ?,newborn,high
+ग्यास हुनु भइरहेको छ,maternal_postnatal,low
+बच्चा सास छिटो चल्नु भएपछि के गर्नु पर्छ?,newborn,high
+यदि बच्चा नाक बन्द हुनु भयो भने के गर्नु पर्छ?,newborn,medium
+बच्चा ज्वरो धेरै आउनु भएपछि के गर्नु पर्छ?,newborn,high
+शरीर दुखाइ सामान्य हो?,maternal_postnatal,low
+दूध चुहिनु सामान्य हो?,maternal_postnatal,low
+बच्चा छाला रातो हुनु भएपछि के गर्नु पर्छ?,newborn,medium
+यदि पेट धेरै दुख्नु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चा सास लिन गाह्रो हुनु भयो भने ठीक छ?,newborn,high
+के घाउबाट पहेंलो पानी आउनु सामान्य हो?,maternal_postnatal,high
+ज्वरो धेरै आउनु भयो भने के गर्ने?,maternal_postnatal,high
+बच्चा दूध नै नखानु भएपछि के गर्नु पर्छ?,newborn,high
+बच्चाले नाक बन्द हुनु गरेको छ,newborn,medium
+बच्चाले पेट फुल्नु गरेको छ,newborn,medium
+ज्वरो आउनु सामान्य हो?,maternal_postnatal,medium
+कब्जियत भइरहेको छ,maternal_postnatal,low
+के मुटु छिटो धड्किनु सामान्य हो?,maternal_postnatal,medium
+बच्चाको एकदमै ढिलो चल्नु देखियो,newborn,high
+मलाई धेरै पसिना आउनु छ,maternal_postnatal,medium
+बच्चाको हातखुट्टा चलाउनु सामान्य हो?,newborn,normal
+निद्रा नलाग्नु भइरहेको छ,maternal_postnatal,low
+बेहोस जस्तो हुनु भयो भने के गर्ने?,maternal_postnatal,high
+भोक नलाग्नु भइरहेको छ,maternal_postnatal,low
+मलाई खुट्टा धेरै सुन्निनु छ,maternal_postnatal,medium
+बच्चा शरीर निलो देखिनु भयो भने ठीक छ?,newborn,high
+उठ्नै नसक्नु सामान्य हो?,maternal_postnatal,high
+यदि बच्चा धेरै चिसो हुनु भयो भने के गर्नु पर्छ?,newborn,high
+बच्चा पेट भरिएको देखिनु भएपछि के गर्नु पर्छ?,newborn,normal
+म खुट्टा धेरै सुन्निनु भएको महसुस गर्छु,maternal_postnatal,medium
+रिङ्गटा लाग्नु भइरहेको छ,maternal_postnatal,medium
+के उठ्नै नसक्नु सामान्य हो?,maternal_postnatal,high
+बच्चाले झट्का जस्तो हुनु गरेको छ,newborn,high
+मलाई पेट धेरै दुख्नु छ,maternal_postnatal,medium
+बच्चामा सास लिन गाह्रो हुनु देखियो,newborn,high
+शरीर काँप्नु सामान्य हो?,maternal_postnatal,high
+यदि बच्चा हल्का ज्वरो जस्तो लाग्नु भयो भने के गर्नु पर्छ?,newborn,medium
+कसरी कमजोरी कम गर्ने?,maternal_postnatal,low
+यदि स्तन भारी हुनु भयो भने के गर्ने?,maternal_postnatal,low
+कसरी दूध चुहिनु कम गर्ने?,maternal_postnatal,low
+यदि ज्वरो आउनु भयो भने के गर्ने?,maternal_postnatal,medium
+दूध कम आउनु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चामा सास छिटो चल्नु देखियो,newborn,high
+बच्चा दूध खाएर सुत्नु भयो भने ठीक छ?,newborn,normal
+कसरी स्तन रातो हुनु कम गर्ने?,maternal_postnatal,medium
+बच्चाको एकदमै ढिलो चल्नु सामान्य हो?,newborn,high
+पिसाब गर्दा दुख्नु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चामा दूध कम खानु देखियो,newborn,medium
+शरीर काँप्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,high
+बच्चालाई हातखुट्टा चलाउनु भयो भने के गर्ने?,newborn,normal
+बच्चाको पेट भरिएको देखिनु देखियो,newborn,normal
+के सास फेर्न गाह्रो हुनु सामान्य हो?,maternal_postnatal,high
+यदि खुट्टा धेरै सुन्निनु भयो भने के गर्ने?,maternal_postnatal,medium
+के खुट्टा धेरै सुन्निनु सामान्य हो?,maternal_postnatal,medium
+बच्चाले उठाउन खोज्दा नउठ्नु गरेको छ,newborn,high
+कसरी ढाड दुखाइ कम गर्ने?,maternal_postnatal,low
+भोक नलाग्नु भयो भने के गर्ने?,maternal_postnatal,low
+बच्चाले सास छिटो चल्नु गरेको छ,newborn,high
+निद्रा नलाग्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+थकान सामान्य हो?,maternal_postnatal,low
+स्तन सुन्निनु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चाको छाला पहेंलो देखिनु भए के गर्ने?,newborn,medium
+पेट धेरै दुख्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+म सधैं रोइरहनु भएको महसुस गर्छु,maternal_postnatal,high
+कब्जियत सामान्य हो?,maternal_postnatal,low
+म बेहोस जस्तो हुनु भएको महसुस गर्छु,maternal_postnatal,high
+बच्चालाई छाला पहेंलो देखिनु भयो भने के गर्ने?,newborn,medium
+के भोक नलाग्नु सामान्य हो?,maternal_postnatal,low
+यदि टाउको दुखाइ भयो भने के गर्ने?,maternal_postnatal,low
+म सास फेर्न गाह्रो हुनु भएको महसुस गर्छु,maternal_postnatal,high
+मलाई शरीर काँप्नु छ,maternal_postnatal,high
+सास फेर्न गाह्रो हुनु भयो भने के गर्ने?,maternal_postnatal,high
+मुटु छिटो धड्किनु भयो भने के गर्ने?,maternal_postnatal,medium
+ज्वरो धेरै आउनु सामान्य हो?,maternal_postnatal,high
+यदि सधैं रोइरहनु भयो भने के गर्ने?,maternal_postnatal,high
+रिङ्गटा लाग्नु सामान्य हो?,maternal_postnatal,medium
+म दूध कम आउनु भएको महसुस गर्छु,maternal_postnatal,medium
+स्तन सुन्निनु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+म ज्वरो धेरै आउनु भएको महसुस गर्छु,maternal_postnatal,high
+थकान भइरहेको छ,maternal_postnatal,low
+के पिसाब पोल्नु सामान्य हो?,maternal_postnatal,medium
+कसरी घाउबाट दुर्गन्ध आउनु कम गर्ने?,maternal_postnatal,medium
+मलाई घाउबाट पहेंलो पानी आउनु छ,maternal_postnatal,high
+बच्चाको झट्का जस्तो हुनु देखियो,newborn,high
+मलाई धेरै रगत बग्नु छ,maternal_postnatal,high
+कब्जियत भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+स्तन रातो हुनु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+बच्चाले सास लिन गाह्रो हुनु गरेको छ,newborn,high
+टाँका दुख्नु सामान्य हो?,maternal_postnatal,medium
+घाउबाट पहेंलो पानी आउनु भयो भने के गर्ने?,maternal_postnatal,high
+यदि बच्चा दिसा हरियो हुनु भयो भने के गर्नु पर्छ?,newborn,medium
+यदि बच्चा दिसा पहेंलो हुनु भयो भने के गर्नु पर्छ?,newborn,normal
+कसरी पेट धेरै दुख्नु कम गर्ने?,maternal_postnatal,medium
+ज्वरो आउनु भइरहेको छ,maternal_postnatal,medium
+भोक नलाग्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+ग्यास हुनु सामान्य हो?,maternal_postnatal,low
+यदि बच्चा दूध कम खानु भयो भने के गर्नु पर्छ?,newborn,medium
+यदि निद्रा नलाग्नु भयो भने के गर्ने?,maternal_postnatal,low
+कसरी थकान कम गर्ने?,maternal_postnatal,low
+पिसाब पोल्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+बच्चाको हल्का रुनु सामान्य हो?,newborn,normal
+के कब्जियत सामान्य हो?,maternal_postnatal,low
+बच्चालाई बारम्बार रुनु भयो भने के गर्ने?,newborn,medium
+घाउ अलि दुख्नु भइरहेको छ,maternal_postnatal,low
+बच्चा हातखुट्टा चलाउनु भएपछि के गर्नु पर्छ?,newborn,normal
+बच्चा दूध खाँदा निदाउनु भयो भने ठीक छ?,newborn,medium
+कसरी शरीर दुखाइ कम गर्ने?,maternal_postnatal,low
+कमजोरी भइरहेको छ,maternal_postnatal,low
+बच्चाको उठाउन खोज्दा नउठ्नु भए के गर्ने?,newborn,high
+बच्चाको शरीर निलो देखिनु भए के गर्ने?,newborn,high
+बच्चा दूध खाएर सुत्नु भएपछि के गर्नु पर्छ?,newborn,normal
+बच्चाको धेरै सुत्नु सामान्य हो?,newborn,normal
+बच्चाको पेट फुल्नु भए के गर्ने?,newborn,medium
+बच्चामा शरीर निलो देखिनु देखियो,newborn,high
+मलाई टाउको दुखाइ छ,maternal_postnatal,low
+बच्चाले हल्का ज्वरो जस्तो लाग्नु गरेको छ,newborn,medium
+म दूध चुहिनु भएको महसुस गर्छु,maternal_postnatal,low
+म कब्जियत भएको महसुस गर्छु,maternal_postnatal,low
+दूध कम आउनु सामान्य हो?,maternal_postnatal,medium
+बच्चाको आँखा पाक्नु सामान्य हो?,newborn,medium
+बच्चामा निन्द्रा धेरै हुनु देखियो,newborn,normal
+टाउको दुखाइ भइरहेको छ,maternal_postnatal,low
+बच्चालाई दूध कम खानु भयो भने के गर्ने?,newborn,medium
+बच्चाको सास छिटो चल्नु सामान्य हो?,newborn,high
+आँखा धमिलो हुनु भइरहेको छ,maternal_postnatal,medium
+यदि शरीर काँप्नु भयो भने के गर्ने?,maternal_postnatal,high
+बच्चाले ज्वरो धेरै आउनु गरेको छ,newborn,high
+बच्चालाई शरीर निलो देखिनु भयो भने के गर्ने?,newborn,high
+बच्चाको दूध कम खानु सामान्य हो?,newborn,medium
+बेहोस जस्तो हुनु सामान्य हो?,maternal_postnatal,high
+धेरै रगत बग्नु भइरहेको छ,maternal_postnatal,high
+बच्चाले दूध खाएर सुत्नु गरेको छ,newborn,normal
+बच्चा दूध कम खानु भएपछि के गर्नु पर्छ?,newborn,medium
+यदि स्तन सुन्निनु भयो भने के गर्ने?,maternal_postnatal,medium
+पसिना आउनु भइरहेको छ,maternal_postnatal,low
+बच्चामा छाला पहेंलो देखिनु देखियो,newborn,medium
+हल्का पेट दुखाइ भयो भने के गर्ने?,maternal_postnatal,low
+ग्यास हुनु भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+के शरीर काँप्नु सामान्य हो?,maternal_postnatal,high
+दूध चुहिनु भइरहेको छ,maternal_postnatal,low
+मलाई ज्वरो धेरै आउनु छ,maternal_postnatal,high
+कसरी पिसाब पोल्नु कम गर्ने?,maternal_postnatal,medium
+यदि बच्चा उठाउन खोज्दा नउठ्नु भयो भने के गर्नु पर्छ?,newborn,high
+बच्चाको बारम्बार रुनु भए के गर्ने?,newborn,medium
+बच्चाले नाक बन्द हुनु गरेको छ,newborn,medium
+यदि बच्चा दूध खाएर सुत्नु भयो भने के गर्नु पर्छ?,newborn,normal
+बच्चाले हातखुट्टा चलाउनु गरेको छ,newborn,normal
+के कमजोरी सामान्य हो?,maternal_postnatal,low
+बच्चाले निन्द्रा धेरै हुनु गरेको छ,newborn,normal
+बच्चाको दूध कम खानु भए के गर्ने?,newborn,medium
+यदि सास फेर्न गाह्रो हुनु भयो भने के गर्ने?,maternal_postnatal,high
+यदि बेहोस जस्तो हुनु भयो भने के गर्ने?,maternal_postnatal,high
+बच्चाको लगातार रोइरहनु भए के गर्ने?,newborn,high
+कसरी निद्रा नलाग्नु कम गर्ने?,maternal_postnatal,low
+धेरै रगत बग्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,high
+बच्चाले दूध खाँदा निदाउनु गरेको छ,newborn,medium
+शरीर काँप्नु भयो भने के गर्ने?,maternal_postnatal,high
+कसरी मुटु छिटो धड्किनु कम गर्ने?,maternal_postnatal,medium
+बच्चा धेरै चिसो हुनु भयो भने ठीक छ?,newborn,high
+मलाई बेहोस जस्तो हुनु छ,maternal_postnatal,high
+यदि आँखा धमिलो हुनु भयो भने के गर्ने?,maternal_postnatal,medium
+के घाउ अलि दुख्नु सामान्य हो?,maternal_postnatal,low
+बच्चा झट्का जस्तो हुनु भएपछि के गर्नु पर्छ?,newborn,high
+यदि बच्चा दूध नै नखानु भयो भने के गर्नु पर्छ?,newborn,high
+यदि दूध कम आउनु भयो भने के गर्ने?,maternal_postnatal,medium
+उठ्नै नसक्नु भइरहेको छ,maternal_postnatal,high
+कसरी छाती दुख्नु कम गर्ने?,maternal_postnatal,high
+बच्चाले हल्का ज्वरो जस्तो लाग्नु गरेको छ,newborn,medium
+मलाई छाती दुख्नु छ,maternal_postnatal,high
+बच्चामा उठाउन खोज्दा नउठ्नु देखियो,newborn,high
+मलाई शरीर दुखाइ छ,maternal_postnatal,low
+बच्चालाई लगातार रोइरहनु भयो भने के गर्ने?,newborn,high
+बच्चाको छाला रातो हुनु देखियो,newborn,medium
+यदि बच्चा ज्वरो धेरै आउनु भयो भने के गर्नु पर्छ?,newborn,high
+बच्चाको दिसा हरियो हुनु देखियो,newborn,medium
+कसरी रिङ्गटा लाग्नु कम गर्ने?,maternal_postnatal,medium
+टाउको दुखाइ भयो भने के गर्ने?,maternal_postnatal,low
+स्तन रातो हुनु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चाको दिसा हरियो हुनु भए के गर्ने?,newborn,medium
+बच्चाले दिसा हरियो हुनु गरेको छ,newborn,medium
+के टाउको दुखाइ सामान्य हो?,maternal_postnatal,low
+बच्चाको छाला पहेंलो देखिनु देखियो,newborn,medium
+बच्चामा एकदमै ढिलो चल्नु देखियो,newborn,high
+बच्चाले झट्का जस्तो हुनु गरेको छ,newborn,high
+घाउबाट पहेंलो पानी आउनु भए अस्पताल जानु पर्छ?,maternal_postnatal,high
+मुटु छिटो धड्किनु सामान्य हो?,maternal_postnatal,medium
+यदि उठ्नै नसक्नु भयो भने के गर्ने?,maternal_postnatal,high
+ज्वरो आउनु भयो भने के गर्ने?,maternal_postnatal,medium
+खुट्टा दुख्नु भइरहेको छ,maternal_postnatal,low
+बच्चाले दूध खाएर सुत्नु गरेको छ,newborn,normal
+यदि दूध चुहिनु भयो भने के गर्ने?,maternal_postnatal,low
+स्तन रातो हुनु सामान्य हो?,maternal_postnatal,medium
+पसिना आउनु भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+अत्यधिक कमजोरी सामान्य हो?,maternal_postnatal,high
+कसरी टाँका दुख्नु कम गर्ने?,maternal_postnatal,medium
+म थकान भएको महसुस गर्छु,maternal_postnatal,low
+यदि घाउबाट पहेंलो पानी आउनु भयो भने के गर्ने?,maternal_postnatal,high
+खुट्टा धेरै सुन्निनु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+सधैं रोइरहनु भए अस्पताल जानु पर्छ?,maternal_postnatal,high
+बच्चाको एकदमै ढिलो चल्नु भए के गर्ने?,newborn,high
+पिसाब पोल्नु भयो भने के गर्ने?,maternal_postnatal,medium
+म उठ्नै नसक्नु भएको महसुस गर्छु,maternal_postnatal,high
+बच्चाको सास लिन गाह्रो हुनु भए के गर्ने?,newborn,high
+ज्वरो धेरै आउनु भए अस्पताल जानु पर्छ?,maternal_postnatal,high
+मलाई ग्यास हुनु छ,maternal_postnatal,low
+दूध कम आउनु भइरहेको छ,maternal_postnatal,medium
+बच्चाको पेट भरिएको देखिनु सामान्य हो?,newborn,normal
+बच्चा धेरै सुत्नु भयो भने ठीक छ?,newborn,normal
+यदि बच्चा सास लिन गाह्रो हुनु भयो भने के गर्नु पर्छ?,newborn,high
+उठ्नै नसक्नु भयो भने के गर्ने?,maternal_postnatal,high
+यदि कमजोरी भयो भने के गर्ने?,maternal_postnatal,low
+हल्का पेट दुखाइ भइरहेको छ,maternal_postnatal,low
+बच्चाको धेरै चिसो हुनु देखियो,newborn,high
+बच्चाको निन्द्रा धेरै हुनु देखियो,newborn,normal
+बच्चाको दूध नै नखानु सामान्य हो?,newborn,high
+के थकान सामान्य हो?,maternal_postnatal,low
+हल्का पेट दुखाइ भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+बच्चा एकदमै ढिलो चल्नु भएपछि के गर्नु पर्छ?,newborn,high
+बच्चाको ज्वरो धेरै आउनु सामान्य हो?,newborn,high
+कमजोरी भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+के अत्यधिक कमजोरी सामान्य हो?,maternal_postnatal,high
+बच्चाको शरीर निलो देखिनु देखियो,newborn,high
+बच्चा नाक बन्द हुनु भएपछि के गर्नु पर्छ?,newborn,medium
+बच्चालाई दिसा पहेंलो हुनु भयो भने के गर्ने?,newborn,normal
+बच्चा नाक बन्द हुनु भयो भने ठीक छ?,newborn,medium
+बच्चा पेट भरिएको देखिनु भयो भने ठीक छ?,newborn,normal
+घाउबाट दुर्गन्ध आउनु भइरहेको छ,maternal_postnatal,medium
+म टाउको दुखाइ भएको महसुस गर्छु,maternal_postnatal,low
+बच्चालाई ज्वरो धेरै आउनु भयो भने के गर्ने?,newborn,high
+धेरै रगत बग्नु सामान्य हो?,maternal_postnatal,high
+यदि हल्का पेट दुखाइ भयो भने के गर्ने?,maternal_postnatal,low
+मलाई घाउबाट दुर्गन्ध आउनु छ,maternal_postnatal,medium
+ढाड दुखाइ भयो भने के गर्ने?,maternal_postnatal,low
+मलाई ज्वरो आउनु छ,maternal_postnatal,medium
+धेरै पसिना आउनु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+बच्चा एकदमै ढिलो चल्नु भयो भने ठीक छ?,newborn,high
+मलाई स्तन रातो हुनु छ,maternal_postnatal,medium
+बच्चा बारम्बार रुनु भएपछि के गर्नु पर्छ?,newborn,medium
+बच्चाको दूध खाँदा निदाउनु देखियो,newborn,medium
+यदि पिसाब पोल्नु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चामा दूध नै नखानु देखियो,newborn,high
+बच्चाको दिसा पहेंलो हुनु भए के गर्ने?,newborn,normal
+बच्चालाई एकदमै ढिलो चल्नु भयो भने के गर्ने?,newborn,high
+बच्चाले दूध नै नखानु गरेको छ,newborn,high
+मलाई निद्रा नलाग्नु छ,maternal_postnatal,low
+बच्चा निन्द्रा धेरै हुनु भयो भने ठीक छ?,newborn,normal
+कसरी स्तन सुन्निनु कम गर्ने?,maternal_postnatal,medium
+यदि बच्चा आँखा पाक्नु भयो भने के गर्नु पर्छ?,newborn,medium
+स्तन सुन्निनु भइरहेको छ,maternal_postnatal,medium
+छाती दुख्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,high
+मलाई पिसाब पोल्नु छ,maternal_postnatal,medium
+म आँखा धमिलो हुनु भएको महसुस गर्छु,maternal_postnatal,medium
+म अत्यधिक कमजोरी भएको महसुस गर्छु,maternal_postnatal,high
+यदि बच्चा धेरै सुत्नु भयो भने के गर्नु पर्छ?,newborn,normal
+घाउबाट दुर्गन्ध आउनु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चाको धेरै सुत्नु देखियो,newborn,normal
+मलाई स्तन भारी हुनु छ,maternal_postnatal,low
+बच्चा निन्द्रा धेरै हुनु भएपछि के गर्नु पर्छ?,newborn,normal
+भोक नलाग्नु सामान्य हो?,maternal_postnatal,low
+बच्चामा पेट फुल्नु देखियो,newborn,medium
+बच्चाले एकदमै ढिलो चल्नु गरेको छ,newborn,high
+घाउ अलि दुख्नु सामान्य हो?,maternal_postnatal,low
+बच्चाको निन्द्रा धेरै हुनु सामान्य हो?,newborn,normal
+बच्चालाई दूध खाँदा निदाउनु भयो भने के गर्ने?,newborn,medium
+बच्चाले लगातार रोइरहनु गरेको छ,newborn,high
+पेट धेरै दुख्नु भइरहेको छ,maternal_postnatal,medium
+बच्चाले धेरै सुत्नु गरेको छ,newborn,normal
+बच्चाको दूध नै नखानु देखियो,newborn,high
+बच्चाको दूध खाएर सुत्नु सामान्य हो?,newborn,normal
+बच्चाको दूध खाँदा निदाउनु भए के गर्ने?,newborn,medium
+म कमजोरी भएको महसुस गर्छु,maternal_postnatal,low
+बच्चा हातखुट्टा चलाउनु भयो भने ठीक छ?,newborn,normal
+ढाड दुखाइ भइरहेको छ,maternal_postnatal,low
+मलाई रिङ्गटा लाग्नु छ,maternal_postnatal,medium
+खुट्टा धेरै सुन्निनु भयो भने के गर्ने?,maternal_postnatal,medium
+कसरी शरीर काँप्नु कम गर्ने?,maternal_postnatal,high
+बच्चालाई दूध नै नखानु भयो भने के गर्ने?,newborn,high
+यदि पसिना आउनु भयो भने के गर्ने?,maternal_postnatal,low
+दूध चुहिनु भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+बच्चामा छाला रातो हुनु देखियो,newborn,medium
+बच्चा शरीर निलो देखिनु भएपछि के गर्नु पर्छ?,newborn,high
+यदि बच्चा हल्का रुनु भयो भने के गर्नु पर्छ?,newborn,normal
+धेरै रगत बग्नु भयो भने के गर्ने?,maternal_postnatal,high
+बच्चाको बारम्बार रुनु सामान्य हो?,newborn,medium
+शरीर काँप्नु भइरहेको छ,maternal_postnatal,high
+कसरी आँखा धमिलो हुनु कम गर्ने?,maternal_postnatal,medium
+यदि धेरै रगत बग्नु भयो भने के गर्ने?,maternal_postnatal,high
+बच्चा सास छिटो चल्नु भयो भने ठीक छ?,newborn,high
+बच्चा धेरै सुत्नु भएपछि के गर्नु पर्छ?,newborn,normal
+बच्चाको सास लिन गाह्रो हुनु देखियो,newborn,high
+ढाड दुखाइ सामान्य हो?,maternal_postnatal,low
+बच्चा बारम्बार रुनु भयो भने ठीक छ?,newborn,medium
+छाती दुख्नु भयो भने के गर्ने?,maternal_postnatal,high
+पिसाब गर्दा दुख्नु भइरहेको छ,maternal_postnatal,medium
+बच्चाले आँखा पाक्नु गरेको छ,newborn,medium
+बच्चामा दिसा पहेंलो हुनु देखियो,newborn,normal
+आँखा धमिलो हुनु सामान्य हो?,maternal_postnatal,medium
+बच्चाको छाला रातो हुनु भए के गर्ने?,newborn,medium
+बच्चालाई सास लिन गाह्रो हुनु भयो भने के गर्ने?,newborn,high
+आँखा धमिलो हुनु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+बच्चा छाला पहेंलो देखिनु भएपछि के गर्नु पर्छ?,newborn,medium
+कसरी अत्यधिक कमजोरी कम गर्ने?,maternal_postnatal,high
+सधैं रोइरहनु भयो भने के गर्ने?,maternal_postnatal,high
+यदि बच्चा निन्द्रा धेरै हुनु भयो भने के गर्नु पर्छ?,newborn,normal
+कसरी घाउ अलि दुख्नु कम गर्ने?,maternal_postnatal,low
+बच्चाको सास छिटो चल्नु देखियो,newborn,high
+कसरी ग्यास हुनु कम गर्ने?,maternal_postnatal,low
+म रिङ्गटा लाग्नु भएको महसुस गर्छु,maternal_postnatal,medium
+यदि धेरै पसिना आउनु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चाको हातखुट्टा चलाउनु भए के गर्ने?,newborn,normal
+के ग्यास हुनु सामान्य हो?,maternal_postnatal,low
+बच्चामा हल्का रुनु देखियो,newborn,normal
+सधैं रोइरहनु भइरहेको छ,maternal_postnatal,high
+सास फेर्न गाह्रो हुनु भइरहेको छ,maternal_postnatal,high
+यदि ज्वरो धेरै आउनु भयो भने के गर्ने?,maternal_postnatal,high
+बच्चा लगातार रोइरहनु भएपछि के गर्नु पर्छ?,newborn,high
+यदि घाउ अलि दुख्नु भयो भने के गर्ने?,maternal_postnatal,low
+दूध कम आउनु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+मलाई पिसाब गर्दा दुख्नु छ,maternal_postnatal,medium
+म घाउबाट पहेंलो पानी आउनु भएको महसुस गर्छु,maternal_postnatal,high
+मुटु छिटो धड्किनु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+बच्चाले छाला पहेंलो देखिनु गरेको छ,newborn,medium
+बच्चा उठाउन खोज्दा नउठ्नु भएपछि के गर्नु पर्छ?,newborn,high
+बच्चाले बारम्बार रुनु गरेको छ,newborn,medium
+बच्चा दूध खाँदा निदाउनु भएपछि के गर्नु पर्छ?,newborn,medium
+बच्चाको सास लिन गाह्रो हुनु सामान्य हो?,newborn,high
+बच्चाले निन्द्रा धेरै हुनु गरेको छ,newborn,normal
+म घाउ अलि दुख्नु भएको महसुस गर्छु,maternal_postnatal,low
+बच्चाले हातखुट्टा चलाउनु गरेको छ,newborn,normal
+बच्चाको पेट फुल्नु देखियो,newborn,medium
+बच्चाले छाला पहेंलो देखिनु गरेको छ,newborn,medium
+के टाँका दुख्नु सामान्य हो?,maternal_postnatal,medium
+अत्यधिक कमजोरी भइरहेको छ,maternal_postnatal,high
+म हल्का पेट दुखाइ भएको महसुस गर्छु,maternal_postnatal,low
+टाँका दुख्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+खुट्टा दुख्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+बच्चाले एकदमै ढिलो चल्नु गरेको छ,newborn,high
+बच्चाले दूध कम खानु गरेको छ,newborn,medium
+बच्चा हल्का ज्वरो जस्तो लाग्नु भएपछि के गर्नु पर्छ?,newborn,medium
+बच्चाको ज्वरो धेरै आउनु भए के गर्ने?,newborn,high
+बच्चा दूध कम खानु भयो भने ठीक छ?,newborn,medium
+स्तन भारी हुनु भयो भने के गर्ने?,maternal_postnatal,low
+बच्चामा दूध खाँदा निदाउनु देखियो,newborn,medium
+बच्चाको दिसा पहेंलो हुनु देखियो,newborn,normal
+यदि बच्चा एकदमै ढिलो चल्नु भयो भने के गर्नु पर्छ?,newborn,high
+कसरी ज्वरो धेरै आउनु कम गर्ने?,maternal_postnatal,high
+कसरी धेरै रगत बग्नु कम गर्ने?,maternal_postnatal,high
+बच्चा आँखा पाक्नु भयो भने ठीक छ?,newborn,medium
+बच्चा छाला पहेंलो देखिनु भयो भने ठीक छ?,newborn,medium
+मलाई दूध चुहिनु छ,maternal_postnatal,low
+म स्तन रातो हुनु भएको महसुस गर्छु,maternal_postnatal,medium
+यदि बच्चा छाला पहेंलो देखिनु भयो भने के गर्नु पर्छ?,newborn,medium
+बच्चाको आँखा पाक्नु भए के गर्ने?,newborn,medium
+बच्चामा दिसा हरियो हुनु देखियो,newborn,medium
+बच्चाको हल्का रुनु भए के गर्ने?,newborn,normal
+म छाती दुख्नु भएको महसुस गर्छु,maternal_postnatal,high
+के आँखा धमिलो हुनु सामान्य हो?,maternal_postnatal,medium
+स्तन रातो हुनु भइरहेको छ,maternal_postnatal,medium
+म घाउबाट दुर्गन्ध आउनु भएको महसुस गर्छु,maternal_postnatal,medium
+छाती दुख्नु भइरहेको छ,maternal_postnatal,high
+बच्चाले पेट फुल्नु गरेको छ,newborn,medium
+स्तन सुन्निनु सामान्य हो?,maternal_postnatal,medium
+घाउबाट पहेंलो पानी आउनु सामान्य हो?,maternal_postnatal,high
+रिङ्गटा लाग्नु भयो भने के गर्ने?,maternal_postnatal,medium
+यदि बच्चा हातखुट्टा चलाउनु भयो भने के गर्नु पर्छ?,newborn,normal
+म पिसाब पोल्नु भएको महसुस गर्छु,maternal_postnatal,medium
+बच्चाको लगातार रोइरहनु सामान्य हो?,newborn,high
+कसरी खुट्टा धेरै सुन्निनु कम गर्ने?,maternal_postnatal,medium
+के घाउबाट दुर्गन्ध आउनु सामान्य हो?,maternal_postnatal,medium
+के दूध चुहिनु सामान्य हो?,maternal_postnatal,low
+घाउ अलि दुख्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+बच्चाको नाक बन्द हुनु भए के गर्ने?,newborn,medium
+बच्चाले छाला रातो हुनु गरेको छ,newborn,medium
+बच्चाको हल्का रुनु देखियो,newborn,normal
+बच्चा दिसा पहेंलो हुनु भयो भने ठीक छ?,newborn,normal
+म टाँका दुख्नु भएको महसुस गर्छु,maternal_postnatal,medium
+बच्चाले लगातार रोइरहनु गरेको छ,newborn,high
+बच्चालाई दिसा हरियो हुनु भयो भने के गर्ने?,newborn,medium
+यदि अत्यधिक कमजोरी भयो भने के गर्ने?,maternal_postnatal,high
+खुट्टा दुख्नु भयो भने के गर्ने?,maternal_postnatal,low
+यदि बच्चा झट्का जस्तो हुनु भयो भने के गर्नु पर्छ?,newborn,high
+बच्चाको छाला पहेंलो देखिनु सामान्य हो?,newborn,medium
+कसरी सास फेर्न गाह्रो हुनु कम गर्ने?,maternal_postnatal,high
+बच्चामा धेरै चिसो हुनु देखियो,newborn,high
+के ढाड दुखाइ सामान्य हो?,maternal_postnatal,low
+म स्तन भारी हुनु भएको महसुस गर्छु,maternal_postnatal,low
+बच्चाले दूध नै नखानु गरेको छ,newborn,high
+बच्चाले शरीर निलो देखिनु गरेको छ,newborn,high
+के खुट्टा दुख्नु सामान्य हो?,maternal_postnatal,low
+यदि बच्चा दूध खाँदा निदाउनु भयो भने के गर्नु पर्छ?,newborn,medium
+के पसिना आउनु सामान्य हो?,maternal_postnatal,low
+म ढाड दुखाइ भएको महसुस गर्छु,maternal_postnatal,low
+के स्तन सुन्निनु सामान्य हो?,maternal_postnatal,medium
+निद्रा नलाग्नु सामान्य हो?,maternal_postnatal,low
+मलाई सास फेर्न गाह्रो हुनु छ,maternal_postnatal,high
+मलाई कब्जियत छ,maternal_postnatal,low
+म धेरै पसिना आउनु भएको महसुस गर्छु,maternal_postnatal,medium
+कसरी दूध कम आउनु कम गर्ने?,maternal_postnatal,medium
+सधैं रोइरहनु सामान्य हो?,maternal_postnatal,high
+कसरी ज्वरो आउनु कम गर्ने?,maternal_postnatal,medium
+थकान भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+म शरीर दुखाइ भएको महसुस गर्छु,maternal_postnatal,low
+शरीर दुखाइ भयो भने के गर्ने?,maternal_postnatal,low
+म स्तन सुन्निनु भएको महसुस गर्छु,maternal_postnatal,medium
+के रिङ्गटा लाग्नु सामान्य हो?,maternal_postnatal,medium
+धेरै पसिना आउनु सामान्य हो?,maternal_postnatal,medium
+बच्चाको आँखा पाक्नु देखियो,newborn,medium
+बच्चाको बारम्बार रुनु देखियो,newborn,medium
+बच्चामा लगातार रोइरहनु देखियो,newborn,high
+यदि टाँका दुख्नु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चाको लगातार रोइरहनु देखियो,newborn,high
+यदि ग्यास हुनु भयो भने के गर्ने?,maternal_postnatal,low
+कसरी हल्का पेट दुखाइ कम गर्ने?,maternal_postnatal,low
+कसरी धेरै पसिना आउनु कम गर्ने?,maternal_postnatal,medium
+बच्चा दूध नै नखानु भयो भने ठीक छ?,newborn,high
+बच्चामा धेरै सुत्नु देखियो,newborn,normal
+बच्चाले सास छिटो चल्नु गरेको छ,newborn,high
+के स्तन रातो हुनु सामान्य हो?,maternal_postnatal,medium
+यदि बच्चा पेट फुल्नु भयो भने के गर्नु पर्छ?,newborn,medium
+बच्चाले सास लिन गाह्रो हुनु गरेको छ,newborn,high
+यदि ढाड दुखाइ भयो भने के गर्ने?,maternal_postnatal,low
+बच्चाको धेरै चिसो हुनु भए के गर्ने?,newborn,high
+बच्चालाई सास छिटो चल्नु भयो भने के गर्ने?,newborn,high
+म पिसाब गर्दा दुख्नु भएको महसुस गर्छु,maternal_postnatal,medium
+बच्चाले पेट भरिएको देखिनु गरेको छ,newborn,normal
+सास फेर्न गाह्रो हुनु भए अस्पताल जानु पर्छ?,maternal_postnatal,high
+बच्चालाई धेरै सुत्नु भयो भने के गर्ने?,newborn,normal
+बच्चाले पेट भरिएको देखिनु गरेको छ,newborn,normal
+खुट्टा धेरै सुन्निनु सामान्य हो?,maternal_postnatal,medium
+बच्चाले बारम्बार रुनु गरेको छ,newborn,medium
+टाँका दुख्नु भयो भने के गर्ने?,maternal_postnatal,medium
+मलाई कमजोरी छ,maternal_postnatal,low
+बच्चा सास लिन गाह्रो हुनु भएपछि के गर्नु पर्छ?,newborn,high
+म ग्यास हुनु भएको महसुस गर्छु,maternal_postnatal,low
+बच्चाको हातखुट्टा चलाउनु देखियो,newborn,normal
+बच्चाले छाला रातो हुनु गरेको छ,newborn,medium
+हल्का पेट दुखाइ सामान्य हो?,maternal_postnatal,low
+यदि शरीर दुखाइ भयो भने के गर्ने?,maternal_postnatal,low
+पिसाब गर्दा दुख्नु सामान्य हो?,maternal_postnatal,medium
+म खुट्टा दुख्नु भएको महसुस गर्छु,maternal_postnatal,low
+शरीर दुखाइ भइरहेको छ,maternal_postnatal,low
+यदि बच्चा सास छिटो चल्नु भयो भने के गर्नु पर्छ?,newborn,high
+यदि घाउबाट दुर्गन्ध आउनु भयो भने के गर्ने?,maternal_postnatal,medium
+बच्चा दिसा हरियो हुनु भएपछि के गर्नु पर्छ?,newborn,medium
+बच्चालाई हल्का रुनु भयो भने के गर्ने?,newborn,normal
+ज्वरो धेरै आउनु भइरहेको छ,maternal_postnatal,high
+बच्चालाई निन्द्रा धेरै हुनु भयो भने के गर्ने?,newborn,normal
+बच्चामा पेट भरिएको देखिनु देखियो,newborn,normal
+बच्चालाई आँखा पाक्नु भयो भने के गर्ने?,newborn,medium
+रिङ्गटा लाग्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+म पसिना आउनु भएको महसुस गर्छु,maternal_postnatal,low
+बच्चामा हल्का ज्वरो जस्तो लाग्नु देखियो,newborn,medium
+खुट्टा दुख्नु सामान्य हो?,maternal_postnatal,low
+बच्चाको झट्का जस्तो हुनु भए के गर्ने?,newborn,high
+यदि बच्चा बारम्बार रुनु भयो भने के गर्नु पर्छ?,newborn,medium
+निद्रा नलाग्नु भयो भने के गर्ने?,maternal_postnatal,low
+यदि थकान भयो भने के गर्ने?,maternal_postnatal,low
+ज्वरो आउनु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+मलाई ढाड दुखाइ छ,maternal_postnatal,low
+बच्चाले आँखा पाक्नु गरेको छ,newborn,medium
+बच्चा हल्का रुनु भएपछि के गर्नु पर्छ?,newborn,normal
+के दूध कम आउनु सामान्य हो?,maternal_postnatal,medium
+टाँका दुख्नु भइरहेको छ,maternal_postnatal,medium
+के हल्का पेट दुखाइ सामान्य हो?,maternal_postnatal,low
+मलाई उठ्नै नसक्नु छ,maternal_postnatal,high
+के ज्वरो धेरै आउनु सामान्य हो?,maternal_postnatal,high
+म मुटु छिटो धड्किनु भएको महसुस गर्छु,maternal_postnatal,medium
+बच्चामा नाक बन्द हुनु देखियो,newborn,medium
+बच्चाको पेट फुल्नु सामान्य हो?,newborn,medium
+बच्चालाई उठाउन खोज्दा नउठ्नु भयो भने के गर्ने?,newborn,high
+म धेरै रगत बग्नु भएको महसुस गर्छु,maternal_postnatal,high
+पिसाब गर्दा दुख्नु भए अस्पताल जानु पर्छ?,maternal_postnatal,medium
+म ज्वरो आउनु भएको महसुस गर्छु,maternal_postnatal,medium
+बच्चाको शरीर निलो देखिनु सामान्य हो?,newborn,high
+बच्चामा हातखुट्टा चलाउनु देखियो,newborn,normal
+बच्चाको हल्का ज्वरो जस्तो लाग्नु देखियो,newborn,medium
+कसरी स्तन भारी हुनु कम गर्ने?,maternal_postnatal,low
+बच्चा दिसा पहेंलो हुनु भएपछि के गर्नु पर्छ?,newborn,normal
+कमजोरी भयो भने के गर्ने?,maternal_postnatal,low
+बच्चाले धेरै चिसो हुनु गरेको छ,newborn,high
+बच्चामा ज्वरो धेरै आउनु देखियो,newborn,high
+म भोक नलाग्नु भएको महसुस गर्छु,maternal_postnatal,low
+के पिसाब गर्दा दुख्नु सामान्य हो?,maternal_postnatal,medium
+के शरीर दुखाइ सामान्य हो?,maternal_postnatal,low
+बच्चालाई छाला रातो हुनु भयो भने के गर्ने?,newborn,medium
+बच्चाले दूध कम खानु गरेको छ,newborn,medium
+बच्चा पेट फुल्नु भयो भने ठीक छ?,newborn,medium
+बच्चाको दूध खाएर सुत्नु देखियो,newborn,normal
+ग्यास हुनु भयो भने के गर्ने?,maternal_postnatal,low
+कसरी उठ्नै नसक्नु कम गर्ने?,maternal_postnatal,high
+बच्चा ज्वरो धेरै आउनु भयो भने ठीक छ?,newborn,high
+अत्यधिक कमजोरी भए अस्पताल जानु पर्छ?,maternal_postnatal,high
+के धेरै पसिना आउनु सामान्य हो?,maternal_postnatal,medium
+मलाई थकान छ,maternal_postnatal,low
+घाउबाट पहेंलो पानी आउनु भइरहेको छ,maternal_postnatal,high
+बच्चाले दिसा पहेंलो हुनु गरेको छ,newborn,normal
+बेहोस जस्तो हुनु भए अस्पताल जानु पर्छ?,maternal_postnatal,high
+मलाई स्तन सुन्निनु छ,maternal_postnatal,medium
+बच्चाको उठाउन खोज्दा नउठ्नु सामान्य हो?,newborn,high
+बच्चा दिसा हरियो हुनु भयो भने ठीक छ?,newborn,medium
+बच्चाको झट्का जस्तो हुनु सामान्य हो?,newborn,high
+बच्चा छाला रातो हुनु भयो भने ठीक छ?,newborn,medium
+मुटु छिटो धड्किनु भइरहेको छ,maternal_postnatal,medium
+बच्चाको ज्वरो धेरै आउनु देखियो,newborn,high
+बच्चाले ज्वरो धेरै आउनु गरेको छ,newborn,high
+पिसाब पोल्नु भइरहेको छ,maternal_postnatal,medium
+बच्चाको हल्का ज्वरो जस्तो लाग्नु सामान्य हो?,newborn,medium
+यदि बच्चा छाला रातो हुनु भयो भने के गर्नु पर्छ?,newborn,medium
+मलाई पसिना आउनु छ,maternal_postnatal,low
+बच्चा हल्का ज्वरो जस्तो लाग्नु भयो भने ठीक छ?,newborn,medium
+यदि बच्चा शरीर निलो देखिनु भयो भने के गर्नु पर्छ?,newborn,high
+खुट्टा धेरै सुन्निनु भइरहेको छ,maternal_postnatal,medium
+टाउको दुखाइ भए अस्पताल जानु पर्छ?,maternal_postnatal,low
+के छाती दुख्नु सामान्य हो?,maternal_postnatal,high
+बच्चा पेट फुल्नु भएपछि के गर्नु पर्छ?,newborn,medium
+के ज्वरो आउनु सामान्य हो?,maternal_postnatal,medium
+कसरी बेहोस जस्तो हुनु कम गर्ने?,maternal_postnatal,high
+पिसाब पोल्नु सामान्य हो?,maternal_postnatal,medium
+बच्चाको दिसा पहेंलो हुनु सामान्य हो?,newborn,normal
+बच्चाको निन्द्रा धेरै हुनु भए के गर्ने?,newborn,normal
+बच्चामा आँखा पाक्नु देखियो,newborn,medium
+अत्यधिक कमजोरी भयो भने के गर्ने?,maternal_postnatal,high
+छाती दुख्नु सामान्य हो?,maternal_postnatal,high
+मलाई खुट्टा दुख्नु छ,maternal_postnatal,low
+स्तन भारी हुनु भइरहेको छ,maternal_postnatal,low
+बच्चाले हल्का रुनु गरेको छ,newborn,normal
+कसरी कब्जियत कम गर्ने?,maternal_postnatal,low
+बच्चालाई पेट फुल्नु भयो भने के गर्ने?,newborn,medium
+कसरी सधैं रोइरहनु कम गर्ने?,maternal_postnatal,high
+के पेट धेरै दुख्नु सामान्य हो?,maternal_postnatal,medium
+बच्चाको नाक बन्द हुनु देखियो,newborn,medium
+मलाई घाउ अलि दुख्नु छ,maternal_postnatal,low
+बच्चा उठाउन खोज्दा नउठ्नु भयो भने ठीक छ?,newborn,high
+टाउको दुखाइ सामान्य हो?,maternal_postnatal,low
+म निद्रा नलाग्नु भएको महसुस गर्छु,maternal_postnatal,low
+के स्तन भारी हुनु सामान्य हो?,maternal_postnatal,low
+बेहोस जस्तो हुनु भइरहेको छ,maternal_postnatal,high
+बच्चाको दूध खाँदा निदाउनु सामान्य हो?,newborn,medium
+स्तन भारी हुनु भए अस्पताल जानु पर्छ?,maternal_postnatal,low
